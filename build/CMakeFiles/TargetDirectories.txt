@@ -1,8 +1,0 @@
-C:/code/designPatterns/build/CMakeFiles/edit_cache.dir
-C:/code/designPatterns/build/CMakeFiles/rebuild_cache.dir
-C:/code/designPatterns/build/test/CMakeFiles/main_factory.dir
-C:/code/designPatterns/build/test/CMakeFiles/main_abstract_factory.dir
-C:/code/designPatterns/build/test/CMakeFiles/main_singleton.dir
-C:/code/designPatterns/build/test/CMakeFiles/main_builder.dir
-C:/code/designPatterns/build/test/CMakeFiles/edit_cache.dir
-C:/code/designPatterns/build/test/CMakeFiles/rebuild_cache.dir
